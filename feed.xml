@@ -3,22 +3,44 @@
     <title>memeda</title>
     <link href="https://legela.github.io/feed.xml" rel="self" />
     <link href="https://legela.github.io" />
-    <updated>2019-09-11T23:31:44+08:00</updated>
+    <updated>2019-09-11T23:42:19+08:00</updated>
     <author>
         <name>Legela</name>
     </author>
     <id>https://legela.github.io</id>
 
     <entry>
-        <title>实验</title>
+        <title>这是我的，只属于我的小天地</title>
         <author>
             <name>Legela</name>
         </author>
         <link href="https://legela.github.io/shi-yan.html"/>
         <id>https://legela.github.io/shi-yan.html</id>
 
-        <updated>2019-09-11T23:01:19+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-09-11T23:42:10+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://legela.github.io/media/posts/1/IMG_20190720_173504.jpg" alt="" />
+                    2019.9.11 我的第一个只属于自己的小站诞生了 真开心，经过了4个小时的寻找和尝试，总算找到了这么一个棒的软件来表白自己的情绪 这是我的秘密，不想和任何人分享 我只想写给自己看，写给有缘的你看 大体的内容是关于自己，关于这么一个我 没什么特点，甚至没什么好看 但，重要么 毫无逻辑的语词重要么 不能理解的句子重要么 我想，重要的是我吧 是这个傻乎乎的 胖乎乎的 坳乎乎的我 我愿意释放全部的自己 只愿换你温柔以待
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://legela.github.io/media/posts/1/IMG_20190720_173504.jpg" alt="" />
+                <p>2019.9.11    我的第一个只属于自己的小站诞生了</p>
+<p>真开心，经过了4个小时的寻找和尝试，总算找到了这么一个棒的软件来表白自己的情绪</p>
+<p>这是我的秘密，不想和任何人分享</p>
+<p>我只想写给自己看，写给有缘的你看</p>
+<p>大体的内容是关于自己，关于这么一个我</p>
+<p>没什么特点，甚至没什么好看</p>
+<p>但，重要么</p>
+<p>毫无逻辑的语词重要么</p>
+<p>不能理解的句子重要么</p>
+<p>我想，重要的是我吧</p>
+<p>是这个傻乎乎的 胖乎乎的 坳乎乎的我</p>
+<p>我愿意释放全部的自己</p>
+<p>只愿换你温柔以待</p>
+            ]]>
+        </content>
     </entry>
 </feed>
