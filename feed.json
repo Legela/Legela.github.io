@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "memeda",
+    "description": "",
+    "home_page_url": "https://legela.github.io",
+    "feed_url": "https://legela.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Legela"
+    },
+    "items": [
+        {
+            "id": "https://legela.github.io/shi-yan.html",
+            "url": "https://legela.github.io/shi-yan.html",
+            "title": "实验",
+            "author": {
+                "name": "Legela"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-11T23:01:19+08:00",
+            "date_modified": "2019-09-11T23:01:19+08:00"
+        }
+    ]
+}
